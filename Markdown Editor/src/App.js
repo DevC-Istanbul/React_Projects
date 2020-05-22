@@ -1,5 +1,7 @@
 import React from "react";
+import "./styles.css";
 import { Remarkable } from "remarkable";
+
 
 class MarkdownEditor extends React.Component {
   constructor(props) {
